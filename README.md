@@ -1,5 +1,5 @@
 ![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
-
+---
 ## Hi there 👋, I'm HurDong
 
 ### A passionate developer from South Korea
