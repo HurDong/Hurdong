@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Stats
 
-![HurDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=synthwave)
+![HurDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=merko)
 
 ---
 
