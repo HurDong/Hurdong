@@ -7,6 +7,9 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/HurDong/count.svg" />  
 </p>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&theme=react&layout=compact" height="180px" width="40%">
+</a>
 
 
 
