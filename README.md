@@ -4,7 +4,13 @@
 
 ![HurDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=radical)
 
+---
+
+## 🏆 BOJ Tier
+
 [![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://www.acmicpc.net/user/gjehdals456)
+
+---
 
 ## 💻 Skills
 
@@ -28,6 +34,8 @@
 ![C++](https://img.shields.io/badge/-C++-purple?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-grey?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
+
+---
 
 ## 📫 Contact
 
