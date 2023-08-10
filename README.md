@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=HurDong.HurDong" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HurDong.HurDong" alt="visitor badge"/>
 </div>
 
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
