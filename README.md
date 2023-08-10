@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/clm-bonny/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/HurDong/count.svg)
 </div>
 
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
