@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=300&section=header&text=HurDong's%20Github&fontSize=70&fontAlign=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=300&section=header&text=HurDong's%20Github&fontSize=70&fontAlign=90&animation=twinkling)
 
 
 
