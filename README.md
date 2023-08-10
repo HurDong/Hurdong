@@ -4,7 +4,7 @@
 
 ### A passionate developer from South Korea
 
-- 🔭 I’m currently working on [My Blog](https://github.com/HurDong)
+- 🔭 I’m currently working on [ Will be added later ](https://github.com/HurDong)
 - 🌱 I’m currently learning `Java`, `Spring`, `SQL`
 - 💬 Ask me about `Java`, `Spring`, `SQL`
 - 📫 How to reach me: [gjehdals456@gmail.com](mailto:gjehdals456@gmail.com)
