@@ -20,7 +20,7 @@
 </div><br>
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 <p align="center">
-  <a href="mailto:jcjin1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
+  <a href="mailto:gjehdals456@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
    </p>
 <br/>
 <br>
