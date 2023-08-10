@@ -1,6 +1,4 @@
-![Background Image](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA5MDdfMTQw%2FMDAxNTM2MzMwMzA5OTcy.gq1oh4PxyHk7wUtNIroWi67QF_QaNybSyVr4WMKR8H4g.WzlbzJBhj1FubpGyLYnVhuKpE2AOkjHzeSf0JpMwpR8g.PNG.hh4338%2Fchung_05.png&type=ofullfill340_600_png)
-
-![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
+![Banner Image](https://github.com/HurDong/img/blob/main/github_banner_with_background.jpg)
 ---
 ## Hi there 👋, I'm HurDong
 
