@@ -18,8 +18,13 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div><br>
-
-    
+<h2 align="center"><b> ☎ Contact ☎ </b></h2>
+<p align="center">
+  <a href="mailto:jcjin1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
+   </p>
+<br/>
+<br>
+ 
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/clm-bonny/count.svg" />  
