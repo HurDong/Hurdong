@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=300&section=header&text=HurDong's%20Github&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=500&section=header&text=HurDong's%20Github&fontSize=70&animation=twinkling)
 
 <p align="center">
   <img src="https://github.com/HurDong/img/blob/main/github_banner.jpg" alt="Banner Image">
