@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HurDong's%20GitHub&fontSize=40)
+
 ![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
+
 ---
 ## Hi there 👋, I'm HurDong
 
@@ -58,4 +61,7 @@
 ---
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HurDong)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
