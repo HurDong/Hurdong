@@ -13,4 +13,5 @@
   <a href="mailto:gjehdals456@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gjehdals456@gmail.com"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HurDong.HurDong)
+
