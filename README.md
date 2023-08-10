@@ -5,13 +5,10 @@
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
-  ![Visitor Count](https://profile-counter.glitch.me/HurDong/count.svg)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=HurDong.HurDong" alt="visitor badge"/>
 </div>
 
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 <p align="center">
   <a href="mailto:gjehdals456@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gjehdals456@gmail.com"/></a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HurDong.HurDong)
-
