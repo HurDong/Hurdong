@@ -1,16 +1,18 @@
 # Hello, I'm HurDong! 👋
 
+![Background](https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif)
+
 ## 📈 GitHub Stats
 
 ![HurDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=radical)
 
----
+![Dynamic Line](https://i.imgur.com/4YsotEq.gif)
 
 ## 🏆 BOJ Tier
 
 [![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://www.acmicpc.net/user/gjehdals456)
 
----
+![Dynamic Line](https://i.imgur.com/4YsotEq.gif)
 
 ## 💻 Skills
 
@@ -35,7 +37,7 @@
 ![C](https://img.shields.io/badge/-C-grey?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
 
----
+![Dynamic Line](https://i.imgur.com/4YsotEq.gif)
 
 ## 📫 Contact
 
