@@ -1,6 +1,4 @@
-![Banner Image](https://image.shutterstock.com/image-photo/image-260nw-1078343330.jpg)
-
-<div align="center" style="background-color: #87CEEB;">
+![Banner Image](https://www.urbanbrush.net/web/wp-content/uploads/2021/09/urbanbrush-20210906212626784344.jpg)
 
 ## Hi there 👋, I'm HurDong
 
@@ -54,5 +52,3 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</div>
