@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=300&section=header&text=HurDong's%20Github&fontSize=70&animation=twinkling)
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center">
   <img src="https://github.com/HurDong/img/blob/main/github_banner.jpg" alt="Banner Image">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ---
 ## Hi there 👋, I'm HurDong
@@ -68,6 +69,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HurDong)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=200&section=footer)
 
