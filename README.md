@@ -4,6 +4,8 @@
 
 ![HurDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=radical)
 
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_boj_username)](https://www.acmicpc.net/user/your_boj_username)
+
 ## 💻 Skills
 
 ### Frontend
