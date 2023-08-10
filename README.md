@@ -1,17 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=200&section=header&text=HurDong's%20Github&fontSize=70&animation=twinkling)
  
-
 <p align="center">
   <img src="https://github.com/HurDong/img/blob/main/github_banner.jpg" alt="Banner Image">
 </p>
 
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
-# **Hi there 👋, I'm Dongmin Hur**
+# ***Hi there 👋, I'm Dongmin Hur***
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 ### A passionate developer from South Korea
