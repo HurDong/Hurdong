@@ -6,7 +6,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
 <a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=Hurdong&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp;
+![Hurdong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurdong&show_icons=true&theme=radical)
+
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurdong&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
