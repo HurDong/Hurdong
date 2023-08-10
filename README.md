@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HurDong's%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=200&section=header&text=HurDong's%20GitHub&fontSize=40)
+
 
 ![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
 
@@ -61,7 +62,6 @@
 ---
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HurDong)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FFB6C1&height=200&section=footer)
 
 
