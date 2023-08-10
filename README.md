@@ -1,4 +1,4 @@
-![Banner Image](https://www.urbanbrush.net/web/wp-content/uploads/2021/09/urbanbrush-20210906212626784344.jpg)
+![Banner Image]([YOUR_IMAGE_URL](https://github.com/HurDong/img/blob/main/github_banner.jpg))
 
 ## Hi there 👋, I'm HurDong
 
