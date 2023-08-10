@@ -1,4 +1,4 @@
-![Banner Image]([YOUR_IMAGE_URL](https://github.com/HurDong/img/blob/main/github_banner.jpg))
+![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
 
 ## Hi there 👋, I'm HurDong
 
