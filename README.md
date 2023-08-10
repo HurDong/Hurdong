@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/HurDong/img/blob/main/github_banner_with_background.jpg)
+![Banner Image]([https://github.com/HurDong/img/blob/main/github_banner_with_background.jpg](https://github.com/HurDong/img/blob/main/github_banner.jpg))
 ---
 ## Hi there 👋, I'm HurDong
 
