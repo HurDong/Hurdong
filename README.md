@@ -10,7 +10,8 @@
 
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurdong&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hurdong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 <br/>
 <br>
