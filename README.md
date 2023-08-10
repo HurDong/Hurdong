@@ -6,12 +6,10 @@
 
 - 🔭 I’m currently working on [My Blog](https://github.com/HurDong)
 - 🌱 I’m currently learning `Java`, `Spring`, `SQL`
-- 👯 I’m looking to collaborate on [Github](https://github.com)
-- 🤔 I’m looking for help with Statistics
 - 💬 Ask me about `Java`, `Spring`, `SQL`
-- 📫 How to reach me: [email@email.com](mailto:email@email.com)
+- 📫 How to reach me: [gjehdals456@gmail.com](mailto:gjehdals456@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to play and watch football and play computer games :)
 
 ---
 
