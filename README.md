@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HurDong's%20Github&fontSize=90&fontAlign=70&animation=twinkling)
 
 
 
-![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
+
+<p align="center">
+  <img src="https://github.com/HurDong/img/blob/main/github_banner.jpg" alt="Banner Image">
+</p>
+
 
 ---
 ## Hi there 👋, I'm HurDong
