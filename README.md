@@ -19,6 +19,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🏆 BOJ Tier
 
 [![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://www.acmicpc.net/user/gjehdals456)
