@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=87CEFA&height=200&section=header&text=HurDong's%20GitHub&fontSize=40&align=center)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HurDong's%20Github&fontSize=90&fontAlign=70)
+
 
 
 ![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
