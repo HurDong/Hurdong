@@ -3,9 +3,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://solved.ac/gjehdals456)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurdong)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+</div><br>
+
     
 <!-- retro visitor counter -->  
 <p align="center" >   
