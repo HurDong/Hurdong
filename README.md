@@ -1,3 +1,5 @@
+![Background Image](https://user-images.githubusercontent.com/20432955/129495758-2dcb8b4b-0b4a-4e4d-9a6a-7dbd3d5d5db3.png)
+
 ![Banner Image](https://github.com/HurDong/img/blob/main/github_banner.jpg)
 ---
 ## Hi there 👋, I'm HurDong
