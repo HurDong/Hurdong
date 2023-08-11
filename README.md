@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats & 🏆 BOJ Tier
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ Tier" />
 </p>
