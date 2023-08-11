@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td>
+    
 
 ## A passionate developer from South Korea
 
@@ -25,8 +25,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play and watch football and play computer games :)
 
-    </td>
-    <td>
+   
+ 
 
 ## 🏆 BOJ Tier
 
