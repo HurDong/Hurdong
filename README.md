@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=transparent" alt="GitHub Stats" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=donut" alt="Most Used Language" />
 </p>
 
