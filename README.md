@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I love to play and watch football and play computer games :)
 
     </td>
-  <td>
+<td>
 
 ## 🏆 BOJ Tier
 
@@ -34,6 +34,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
