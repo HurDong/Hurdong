@@ -16,7 +16,7 @@
   <tr>
     <td>
 
-## A passionate developer from South Korea
+A passionate developer from South Korea
 
 - 🔭 I’m currently working on [ Will be added later ](https://github.com/HurDong)
 - 🌱 I’m currently learning `Java`, `Spring`, `SQL`
@@ -27,14 +27,12 @@
 
     </td>
     <td>
-
-## 🏆 BOJ Tier
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
-
+      <center>🏆 BOJ Tier</center>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
     </td>
   </tr>
 </table>
+
 
 
 
@@ -50,12 +48,6 @@
   </tr>
 </table>
 
-
----
-
-## 🏆 BOJ Tier
-
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://www.acmicpc.net/user/gjehdals456)
 
 ---
 
