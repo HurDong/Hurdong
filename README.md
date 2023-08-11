@@ -13,9 +13,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 50%;">
+<table>
+  <tr>
+    <td>
 
 ## A passionate developer from South Korea
 
@@ -26,17 +26,18 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play and watch football and play computer games :)
 
-</div>
-
-<div style="width: 50%;">
+    </td>
+    <td>
 
 ## 🏆 BOJ Tier
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
 
-</div>
+    </td>
+  </tr>
+</table>
 
-</div>
+
 
 
 
