@@ -13,7 +13,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<h2>A passionate developer from South Korea</h2>
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 50%;">
+
+## A passionate developer from South Korea
 
 - 🔭 I’m currently working on [ Will be added later ](https://github.com/HurDong)
 - 🌱 I’m currently learning `Java`, `Spring`, `SQL`
@@ -22,9 +26,18 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play and watch football and play computer games :)
 
-<h2>🏆 BOJ Tier</h2>
+</div>
+
+<div style="width: 50%;">
+
+## 🏆 BOJ Tier
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
+
+</div>
+
+</div>
+
 
 
 
