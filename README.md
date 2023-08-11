@@ -27,7 +27,7 @@
 
     </td>
     <td>
-      <center><strong><font size="16">🏆 BOJ Tier</font></strong></center>
+      <center><strong><font size="30">🏆 BOJ Tier</font></strong></center>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
     </td>
   </tr>
