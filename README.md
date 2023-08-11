@@ -23,16 +23,18 @@
 
 ---
 
-## 📈 GitHub Stats & 🏆 BOJ Tier
+## 📈 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HurDong&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ Tier" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=donut" alt="Most Used Language" />
 </p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 BOJ Tier
+
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456)](https://www.acmicpc.net/user/gjehdals456)
 
 ---
 
