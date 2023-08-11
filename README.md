@@ -16,7 +16,7 @@
   <tr>
     <td>
 
-<strong><font size="4">A passionate developer from South Korea</font></strong>
+<strong><font size="16">A passionate developer from South Korea</font></strong>
 
 - 🔭 I’m currently working on [ Will be added later ](https://github.com/HurDong)
 - 🌱 I’m currently learning `Java`, `Spring`, `SQL`
@@ -27,7 +27,7 @@
 
     </td>
     <td>
-      <center><strong><font size="4">🏆 BOJ Tier</font></strong></center>
+      <center><strong><font size="16">🏆 BOJ Tier</font></strong></center>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ" />
     </td>
   </tr>
