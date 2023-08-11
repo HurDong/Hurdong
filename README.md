@@ -10,8 +10,6 @@
   Hi there 👋, I'm Dongmin Hur
 </h1>
 
- 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## A passionate developer from South Korea
@@ -32,11 +30,9 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjehdals456" alt="BOJ Tier" />
 </p>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurDong&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 ---
 
