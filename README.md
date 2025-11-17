@@ -159,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:ee5a6f&height=150&section=footer&text=Keep+Calm+and+Code+On+-+Backend+Developer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:ee5a6f&height=150&section=footer&text=Keep+Calm+and+Code+On&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="footer">
 
 </div>
 
