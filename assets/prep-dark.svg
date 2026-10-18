@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img"><rect width="1000" height="168" rx="9" fill="#201c2c"/><text x="30" y="46" fill="#a9bbb8" font-size="15" font-weight="600" >RESEARCH WORKFLOW</text><text x="25" y="122" fill="#c3afff" font-size="65" font-weight="750" letter-spacing="-2">interview-prep</text><g fill="none" stroke="#c3afff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M752 34h62l22 22v77H752z" fill="#201c2c"/>
+                  <path d="M814 34v22h22M768 54h28"/>
+                  <path d="M766 76l4 4 7-8m-11 26 4 4 7-8m-11 26 4 4 7-8"/>
+                  <path d="M787 77h31m-31 22h23m-23 22h17" opacity=".6"/>
+                  <path d="M857 57h64a8 8 0 018 8v42a8 8 0 01-8 8h-29l-17 15v-15h-18a8 8 0 01-8-8V65a8 8 0 018-8z" fill="#201c2c" stroke="#ef9889"/>
+                  <path d="M865 76h47m-47 12h35m-35 12h24" stroke="#ef9889"/>
+                </g><text x="965" y="150" text-anchor="end" font-size="13" fill="#a9bbb8">03</text><style>text{font-family:Segoe UI,Arial,sans-serif}</style></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img"><rect width="1000" height="168" rx="9" fill="#eef8f3"/><text x="30" y="46" fill="#4d6966" font-size="15" font-weight="600" >REALTIME COMMUNITY</text><text x="25" y="122" fill="#196c59" font-size="65" font-weight="750" letter-spacing="-2">HanaZoom</text><g fill="none" stroke="#196c59" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M728 58l42-15 43 15 42-15v78l-42 15-43-15-42 15z" opacity=".5"/>
+                  <path d="M770 43v78m43-63v78" opacity=".25"/>
+                  <path d="M742 110V88m22 15V75m22 21V65m22 22V73" stroke-width="8"/>
+                  <path d="M874 48h54a8 8 0 018 8v36a8 8 0 01-8 8h-22l-15 13v-13h-17a8 8 0 01-8-8V56a8 8 0 018-8z" fill="#eef8f3"/>
+                  <path d="M880 69h42m-42 13h26"/>
+                  <path d="M849 93c0 11-14 25-14 25s-14-14-14-25a14 14 0 0128 0z" fill="#eef8f3" stroke="#b85645"/>
+                  <circle cx="835" cy="92" r="4" stroke="#b85645"/>
+                </g><text x="965" y="150" text-anchor="end" font-size="13" fill="#4d6966">02</text><style>text{font-family:Segoe UI,Arial,sans-serif}</style></svg>
