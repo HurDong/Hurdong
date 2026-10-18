@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="98" viewBox="0 0 400 98" role="img">
-<title>포트폴리오 · dongmin.vercel.app</title>
-<rect x=".5" y=".5" width="389" height="87" rx="8" fill="#f5f1fb" stroke="#d7e2dc"/>
-<path d="M.5 25v38" stroke="#7351a4" stroke-width="2"/>
-<g fill="none" stroke="#7351a4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="24" y="29" width="30" height="28" rx="3"/><path d="M24 37h30M29 33h2m3 0h2M33 44l-4 4 4 4m12-8 4 4-4 4"/><path d="M354 51l13-13m-10 0h10v10"/></g>
-<g font-family="Segoe UI,Malgun Gothic,Arial,sans-serif"><text x="76" y="31" font-size="13" fill="#52675f">포트폴리오</text><text x="76" y="57" font-size="17" font-weight="600" fill="#203c3a">dongmin.vercel.app</text></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="92" viewBox="0 0 960 92" role="img"><title>Portfolio: dongmin.vercel.app</title><style>text{font-family:Segoe UI,Malgun Gothic,Arial,sans-serif}</style><rect x=".5" y="0" width="959" height="92" fill="#f5f8f6"/><path d="M.5 0V92M959.5 0V92M0 91.5H960" fill="none" stroke="#cad8d0"/><text x="30" y="52.0" font-size="18" fill="#53675e" font-weight="500" >Portfolio</text><text x="222" y="55.0" font-size="28" fill="#21312d" font-weight="500" >dongmin.vercel.app</text><text x="922" y="54.0" font-size="26" fill="#39715d" font-weight="400" text-anchor="end">↗</text></svg>

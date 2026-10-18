@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="98" viewBox="0 0 400 98" role="img">
-<title>이메일 · happycodingmin@gmail.com</title>
-<rect x=".5" y=".5" width="389" height="87" rx="8" fill="#102522" stroke="#33413f"/>
-<path d="M.5 25v38" stroke="#79d2bb" stroke-width="2"/>
-<g fill="none" stroke="#79d2bb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="24" y="32" width="30" height="22" rx="3"/><path d="m25 34 14 10 14-10"/><path d="M354 51l13-13m-10 0h10v10"/></g>
-<g font-family="Segoe UI,Malgun Gothic,Arial,sans-serif"><text x="76" y="31" font-size="13" fill="#a9bbb8">이메일</text><text x="76" y="57" font-size="17" font-weight="600" fill="#edf3ef">happycodingmin@gmail.com</text></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="110" viewBox="0 0 960 110" role="img"><title>Email: happycodingmin@gmail.com</title><style>text{font-family:Segoe UI,Malgun Gothic,Arial,sans-serif}</style><rect x=".5" y="0" width="959" height="110" fill="#121c1b"/><path d="M.5 0V110M959.5 0V110M0 109.5H960" fill="none" stroke="#364641"/><path d="M0 1H960" stroke="#364641" stroke-width="2"/><path d="M0 1H192" stroke="#8bc9b6" stroke-width="2"/><text x="30" y="61.0" font-size="18" fill="#a9bbb8" font-weight="500" >Email</text><text x="222" y="64.0" font-size="31" fill="#edf3ef" font-weight="500" >happycodingmin@gmail.com</text><text x="922" y="63.0" font-size="26" fill="#8bc9b6" font-weight="400" text-anchor="end">↗</text></svg>

@@ -111,17 +111,21 @@
 
 알고리즘 풀이 기록 → [Algorithm](https://github.com/HurDong/Algorithm)
 
----
 
-<p align="center">
+## Contact
+
+<p>
 <a href="mailto:happycodingmin@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/contact-email-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/contact-email-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/contact-email-light.svg">
-  <img src="assets/contact-email-light.svg" width="400" alt="이메일 · happycodingmin@gmail.com">
-</picture></a>
-<a href="https://dongmin.vercel.app"><picture>
+  <img src="assets/contact-email-light.svg" width="100%" align="top" alt="Email: happycodingmin@gmail.com">
+</picture></a><a href="https://dongmin.vercel.app"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/contact-portfolio-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/contact-portfolio-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/contact-portfolio-light.svg">
-  <img src="assets/contact-portfolio-light.svg" width="400" alt="포트폴리오 · dongmin.vercel.app">
+  <img src="assets/contact-portfolio-light.svg" width="100%" align="top" alt="Portfolio: dongmin.vercel.app">
 </picture></a>
 </p>
