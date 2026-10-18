@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="98" viewBox="0 0 400 98" role="img">
+<title>포트폴리오 · dongmin.vercel.app</title>
+<rect x=".5" y=".5" width="389" height="87" rx="8" fill="#201c2c" stroke="#33413f"/>
+<path d="M.5 25v38" stroke="#c3afff" stroke-width="2"/>
+<g fill="none" stroke="#c3afff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="24" y="29" width="30" height="28" rx="3"/><path d="M24 37h30M29 33h2m3 0h2M33 44l-4 4 4 4m12-8 4 4-4 4"/><path d="M354 51l13-13m-10 0h10v10"/></g>
+<g font-family="Segoe UI,Malgun Gothic,Arial,sans-serif"><text x="76" y="31" font-size="13" fill="#a9bbb8">포트폴리오</text><text x="76" y="57" font-size="17" font-weight="600" fill="#edf3ef">dongmin.vercel.app</text></g>
+</svg>

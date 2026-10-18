@@ -113,4 +113,15 @@
 
 ---
 
-[happycodingmin@gmail.com](mailto:happycodingmin@gmail.com)
+<p align="center">
+<a href="mailto:happycodingmin@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-email-light.svg">
+  <img src="assets/contact-email-light.svg" width="400" alt="이메일 · happycodingmin@gmail.com">
+</picture></a>
+<a href="https://dongmin.vercel.app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-portfolio-light.svg">
+  <img src="assets/contact-portfolio-light.svg" width="400" alt="포트폴리오 · dongmin.vercel.app">
+</picture></a>
+</p>

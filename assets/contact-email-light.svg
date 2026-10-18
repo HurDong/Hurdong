@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="98" viewBox="0 0 400 98" role="img">
+<title>이메일 · happycodingmin@gmail.com</title>
+<rect x=".5" y=".5" width="389" height="87" rx="8" fill="#eef8f3" stroke="#d7e2dc"/>
+<path d="M.5 25v38" stroke="#196c59" stroke-width="2"/>
+<g fill="none" stroke="#196c59" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="24" y="32" width="30" height="22" rx="3"/><path d="m25 34 14 10 14-10"/><path d="M354 51l13-13m-10 0h10v10"/></g>
+<g font-family="Segoe UI,Malgun Gothic,Arial,sans-serif"><text x="76" y="31" font-size="13" fill="#52675f">이메일</text><text x="76" y="57" font-size="17" font-weight="600" fill="#203c3a">happycodingmin@gmail.com</text></g>
+</svg>
